@@ -6,4 +6,4 @@ new text
 
 let's try again
 
-:heart
+:smile:
